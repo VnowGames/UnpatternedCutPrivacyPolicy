@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** 08.11.2024
+**Last Updated:** 24.11.2024
 
 ## Introduction
 
@@ -20,20 +20,26 @@ We may collect the following types of data when you use our game:
 - If an internet connection is available, we may collect your username, score, and platform information to display rankings in the leaderboard.
 - This information is stored in a secure database and is used solely for leaderboard purposes to provide a competitive gaming environment.
 
+### Gameplay Insights
+
+- We may collect data about your gameplay, including when you play, your progress, and how you interact with the game.
+- This information helps us understand player behavior and improve the game experience for all users.
+
 ## How We Use the Data
 
 We use the data we collect to:
 
 - Enable and improve your gaming experience by saving your in-game settings and preferences.
 - Operate the leaderboard system to display your rank relative to other players.
-- Provide customer support and respond to your requests regarding the game.
+- Analyze gameplay insights to optimize game mechanics, fix bugs, and enhance overall performance.
 
-## Purpose of Data Processing
+## Purpose of Data Collection
 
-Our primary purposes for processing your data are:
+The primary purposes for collecting data are:
 
-- To offer and maintain the functionality of the leaderboard system.
-- To save and load your preferences for a consistent gaming experience.
+- To maintain the functionality of the game, including features like leaderboards and user preferences.
+- To understand how players interact with the game and identify areas for improvement.
+- To provide better performance and ensure a high-quality gaming experience for all players.
 
 ## User Rights and Data Deletion
 
