@@ -55,4 +55,4 @@ We may update this privacy policy from time to time. If we make changes, we will
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at [admin@vnowgames.com](mailto:admin@vnowgames.com).
+If you have any questions about this privacy policy, please contact us at [info@vnowgames.com](mailto:info@vnowgames.com).
